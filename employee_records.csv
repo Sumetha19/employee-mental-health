@@ -1,0 +1,4 @@
+Age,Gender,self_employed,family_history,work_interfere,no_employees,remote_work,tech_company,benefits,care_options,wellness_program,seek_help,anonymity,leave,mental_health_consequence,phys_health_consequence,coworkers,supervisor,mental_health_interview,phys_health_interview,mental_vs_physical,obs_consequence,employee_id,department,risk,probability,date
+30,Male,No,No,Never,1-5,No,No,Don't know,No,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,No,No,Maybe,Maybe,Don't know,No,456136,General,0,0.71,2025-08-14
+30,Male,No,No,Never,26-100,Yes,No,Don't know,No,Don't know,Yes,Don't know,Don't know,Yes,Yes,Some of them,Some of them,Yes,Maybe,Don't know,No,456136,General,0,0.9,2025-08-14
+30,Male,No,No,Sometimes,More than 1000,Yes,Yes,Don't know,No,No,Yes,No,Somewhat difficult,Yes,Yes,No,Some of them,No,No,Don't know,No,456136,General,1,0.52,2025-08-14
